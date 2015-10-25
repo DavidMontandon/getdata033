@@ -23,9 +23,9 @@ Good luck!
 
 ##Files
 *README.md* : this current file
-*CodeBook.md* : description of the variables and transformations process
-*run_analysis.R* : source code of the assignment)
-*tinydata.txt* : sample of data (date 25.10.2015)
+*[CodeBook.md](https://github.com/DavidMontandon/getdata033/blob/master/CodeBook.md)* : description of the variables and transformations process
+*[run_analysis.R](https://github.com/DavidMontandon/getdata033/blob/master/run_analysis.R)* : source code of the assignment)
+*[tinydata.txt](https://github.com/DavidMontandon/getdata033/blob/master/tinydata.txt)* : sample of data (date 25.10.2015)
 
 ##Process of run_analysis.R
 Here is the details of each step performed in the run_analysis.R file.
