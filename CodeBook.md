@@ -1,9 +1,15 @@
 #CodeBook  - Getting and Cleaning Data - Course Project
 By David Montandon, October 2015 (non english native, sorry for english mistakes in text)
 
+##Data Source
+The data comes from an experiment of 30 people performing six activites with their Samsung Galaxy S II.
+
 ##Data Processing
 This script will create a new file called tinydata.txt that will contains data merge and rearanged from differents files.
 Read  [README](https://github.com/DavidMontandon/getdata033/blob/master/readme.md) file for more informations.
+
+Script resume : Open different data sources, merge, filter and sort them and then calculate mean and standard deviation for each varaibles. 
+The script produce a tiny datatable on local disk.
 
 ##Data in tinydata.txt
 89 variables
